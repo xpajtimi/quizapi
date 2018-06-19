@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 490591738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52010ab8f376ac8f211e2c4c2d886e72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c1f7e18bf0d71dfedacd565f9ac6760
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/Flutur.prefab
+Dependencies: []
